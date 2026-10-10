@@ -65,7 +65,7 @@
 
 ### 🐍 Contribution Snake
 
-<img width="100%" src="https://raw.githubusercontent.com/MHBD66/MHBD66/output/snake-dark.svg" alt="snake" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/MHBD66/MHBD66@output/snake-dark.svg" alt="snake" />
 
 </div>
 
