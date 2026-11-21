@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:818cf8&height=200&section=header&text=DARK%20SHADOW&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Self-taught%20Developer%20%C2%B7%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-<a href="https://github.com/mhbd66">
+<a href="https://github.com/MHBD66">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=620&lines=Welcome+to+my+profile!;Android+%7C+Kotlin+%7C+Python;Automation+%26+Termux+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
 </a>
 
@@ -21,7 +21,8 @@
 - 🐍 Writing scripts & bots in **Python**
 - ⚡ Automating the web with **Termux** & **Linux**
 - 🎯 Currently: *learning && building*
-- 🌐 More links → **[mhbd71](https://mhbd66.github.io/mhbd71/)**
+- 🌱 Currently building **AYAT** — an AI-powered automation assistant
+- 📫 Open to collabs — reach me on **[Telegram](https://t.me/fatdho)**
 
 </td>
 <td valign="top" width="45%">
@@ -44,6 +45,17 @@
 
 ---
 
+### 🚀 Projects
+
+| Repo | What it is |
+| --- | --- |
+| [Bhooth-fm-auto](https://github.com/MHBD66/Bhooth-fm-auto) | Automation experiment |
+| [Tbot](https://github.com/MHBD66/Tbot) | Simple Telegram group bot |
+| [bdtfree](https://github.com/MHBD66/bdtfree) | Web project |
+| [Ayat](https://github.com/MHBD66/Ayat) | AI-powered automation assistant *(private)* |
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
@@ -54,8 +66,6 @@
 <img width="100%" src="https://streak-stats.demolab.com?user=MHBD66&hide_border=true&background=0D1117&ring=34d399&fire=818cf8&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHBD66&bg_color=0D1117&color=34d399&line=818cf8&point=22d3ee&area=true&hide_border=true" alt="activity" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=MHBD66&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy" />
 
 </div>
 
@@ -75,14 +85,13 @@
 
 ### 🌐 Connect with me
 
-<a href="https://github.com/mhbd66"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://smmbd71.xyz"><img src="https://img.shields.io/badge/Blog-smmbd71.xyz-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+<a href="https://github.com/MHBD66"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/MHBD66?tab=repositories"><img src="https://img.shields.io/badge/Projects-34d399?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 <a href="https://t.me/fatdho"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://www.instagram.com/_mithun_hasan_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.facebook.com/nirjhor66"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://tiktok.com/@fatiharridho"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://youtube.com/@FatihArridhoo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://mhbd66.github.io/mhbd71/"><img src="https://img.shields.io/badge/All%20Links-34d399?style=for-the-badge&logo=linktree&logoColor=white" alt="Links" /></a>
 
 <br/><br/>
 
